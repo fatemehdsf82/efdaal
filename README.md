@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @efdaal
+- 👋 Hi, I’m Fatemeh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning.
 
