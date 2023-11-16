@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatemeh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning Django Framework.
 
 <!---
 efdaal/efdaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
